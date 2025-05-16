@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "uta_presentacion.html#section",
+    "href": "uta_presentacion.html#section",
+    "title": "uta_presentacion",
+    "section": "",
+    "text": "Breve Vistazo a Procesos Estadísticos en la Industria Agroquímica\n\nMauricio Moreno, PhD"
+  },
+  {
+    "objectID": "uta_presentacion.html#aviso-legal",
+    "href": "uta_presentacion.html#aviso-legal",
+    "title": "uta_presentacion",
+    "section": "Aviso Legal",
+    "text": "Aviso Legal\nLa información compartida aquí no incluye ningún dato confidencial, propietario o secreto comercial perteneciente a mi empleador. Cumplo plenamente con las políticas de confidencialidad y propiedad intelectual establecidas por Bayer AG, y todo el contenido se basa únicamente en información de dominio público o en mis conocimientos y experiencia personales."
+  },
+  {
+    "objectID": "uta_presentacion.html#acerca-de-mí",
+    "href": "uta_presentacion.html#acerca-de-mí",
+    "title": "uta_presentacion",
+    "section": "Acerca de mí",
+    "text": "Acerca de mí\nFormación Académica:\n\nIngeniero en Biotecnología, ESPE (2010)\nMáster en Estadística, KU Leuven (2015)\nPhD en Bioinformática, Jacobs University Bremen (2021)\n\nExperiencia laboral:\n\nConsultor Estadístico, freelance (2010 - 2012)\nMaestro de Química, Colegio San Gabriel (2012 - 2013)\nAnalista de Estadísticas Ambientales, INEC (2013 - 2014)\nInvestigador Doctoral, Jacobs University Bremen (2016 - 2021)\nInvestigador Postdoctoral, Research Institute for Farm Animal Biology (2021 - 2022)\nCientífico Bioestadístico, Bayer Crop Science (2022 - Actualidad)"
+  },
+  {
+    "objectID": "uta_presentacion.html#importancia-de-los-ensayos-de-campo",
+    "href": "uta_presentacion.html#importancia-de-los-ensayos-de-campo",
+    "title": "uta_presentacion",
+    "section": "🌱 Importancia de los ensayos de campo",
+    "text": "🌱 Importancia de los ensayos de campo\n\n\nEnsayos (experimentos) de campo validan la efectividad de agroquímicos bajo condiciones reales.\nSon críticos para determinar dosajes, tiempo de aplicación y efectividad.\n🔍 Solo ~1 de 100,000 moléculas candidatas llegan a comercializarse."
+  },
+  {
+    "objectID": "uta_presentacion.html#testeo-a-lo-largo-de-múltiples-ambientes",
+    "href": "uta_presentacion.html#testeo-a-lo-largo-de-múltiples-ambientes",
+    "title": "uta_presentacion",
+    "section": "🌍 Testeo a lo largo de múltiples ambientes",
+    "text": "🌍 Testeo a lo largo de múltiples ambientes\n\n\nSon conducidos en múltiples países, climas, y suelos.\nAseguran que el performance de los productos sean consistentes a lo largo de distintas condiciones de cultivo.\n🧪 Un solo ingrediente activo puede ser testeado a nivel global en alrededor de 100 países."
+  },
+  {
+    "objectID": "uta_presentacion.html#aprobación-de-regulaciones-y-seguridad",
+    "href": "uta_presentacion.html#aprobación-de-regulaciones-y-seguridad",
+    "title": "uta_presentacion",
+    "section": "📈 Aprobación de regulaciones y seguridad",
+    "text": "📈 Aprobación de regulaciones y seguridad\n\nPara sacar al mercado un producto, este debe ser aprobado por agencias regulatorias como la EPA, la FDA o entes locales (en Ecuador, en teoría, el ARCSA).\nEvaluaciones básicas:\n\nSeguridad humana y ambiental\nNiveles de residuos en los cultivos\nEcotoxicología sobre organismos a los que no está dirigido el agroquímico\n\n📑 El tiempo total en que un nuevo producto llegue al mercado puede ser entre 10 o más años."
+  },
+  {
+    "objectID": "uta_presentacion.html#fases-del-desarrollo-de-ensayos-de-campo",
+    "href": "uta_presentacion.html#fases-del-desarrollo-de-ensayos-de-campo",
+    "title": "uta_presentacion",
+    "section": "🔄 Fases del Desarrollo de Ensayos de Campo",
+    "text": "🔄 Fases del Desarrollo de Ensayos de Campo\n\nEl desarrollo de productos agroquímicos está estructurado en fases, cada una con mayor complejidad y rigor estadístico.\n\n\n\n\n\n\n\n\n\n\n\nFASE 0:  Laboratorio e invernadero\nFASE 1: Ensayos preliminares  Escala pequeña\nFASE 2: Ensayos avanzados  Diversas regiones\nFASE 3: Ensayos regulatorios\nFASE 4: Post-comercialización  Validación real\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdentificación de moléculas candidatas\nEficacia inicial y rango de dosis\nConfirmación de dosis, comparación de formulaciones\nSeguridad, eficacia, riesgo ambiental\nValidación y monitoreo en condiciones reales"
+  },
+  {
+    "objectID": "uta_presentacion.html#herramientas-estadísticas-clave",
+    "href": "uta_presentacion.html#herramientas-estadísticas-clave",
+    "title": "uta_presentacion",
+    "section": "🧠 Herramientas Estadísticas Clave",
+    "text": "🧠 Herramientas Estadísticas Clave\n\n✅ RCBD – Diseño en Bloques Completos Aleatorizados\n\nControla la variabilidad del campo (suelo, pendiente, etc.)\nLa aleatorización dentro de bloques mejora la precisión\n\n📊 ANOVA (Análisis de Varianza)\n\nPrueba diferencias significativas entre tratamientos\nUso común con RCBD\n\n📈 Análisis de Potencia (Power Analysis)\n\nDetermina el número de réplicas necesarias para detectar efectos\nEvita estudios con potencia insuficiente o excesiva"
+  },
+  {
+    "objectID": "uta_presentacion.html#section-1",
+    "href": "uta_presentacion.html#section-1",
+    "title": "uta_presentacion",
+    "section": "",
+    "text": "Gracias"
+  }
+]

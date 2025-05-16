@@ -1,0 +1,29 @@
+/* Estilos para las celdas de la tabla */
+
+table tr td {
+  background-color: #007acc;
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  width: 180px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  font-weight: normal;
+}
+
+table tr td:nth-child(2) {
+  background-color: #00b894;
+}
+
+table tr td:nth-child(3) {
+  background-color: #fdcb6e;
+  color: #333;
+}
+
+table tr td:nth-child(4) {
+  background-color: #d63031;
+}
+
+table tr td:nth-child(5) {
+  background-color: #6c5ce7;
+}
